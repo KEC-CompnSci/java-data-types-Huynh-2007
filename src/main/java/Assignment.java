@@ -27,4 +27,5 @@ public class Assignment {
         myStringArray = new String[]{"String 1", "string 2", "string 3", "string 4"};
         myIntArray = new int[]{1, 565, 67, 23};
     }
+
 }
